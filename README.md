@@ -1,5 +1,11 @@
 # WarsawCB
 Colorbot made with love to MAKCU Discord community - educational purposes only
+Shout out to:
+- iHack
+- Ahmad
+- Jackslinsmith
+- every other person who contributed to MAKCU community, making it a better place.
+
 
 <p align="center">
   <img width="512" height="512" alt="WV6HgAv" src="https://github.com/user-attachments/assets/c11fb7f9-976f-494e-8feb-f4bdf72a679a" />
