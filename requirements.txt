@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pyserial
+ttkbootstrap
+scipy
+logging
+np<2.0
+numpy<2.0
+dxcam
+screeninfo
+makcu
